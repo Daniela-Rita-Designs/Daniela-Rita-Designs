@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Daniela 👋
 
-<!--
-**Daniela-Rita-Designs/Daniela-Rita-Designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Designer who builds.** Brand systems, websites and small apps, designed and shipped in code.
+Remote.
 
-Here are some ideas to get you started:
+🌐 [danielarita.com](https://danielarita.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I built
+
+| | |
+|---|---|
+| [![Things I built](showcase.jpg)](https://danielarita.com) | [![Music Room](music.jpg)](https://github.com/Daniela-Rita-Designs/music-room) |
+| **[Things I built](https://github.com/Daniela-Rita-Designs/showcase)**: my portfolio of websites and web apps | **[Music Room](https://github.com/Daniela-Rita-Designs/music-room)**: a music app where the home page is a room |
+
+**[design-md](https://github.com/Daniela-Rita-Designs/design-md)**: a Claude Code skill that turns any brand into one file people and AI tools can read.
+
+## Tools
+Figma · HTML/CSS/JS · Astro · Tailwind · Blender · Claude Code
