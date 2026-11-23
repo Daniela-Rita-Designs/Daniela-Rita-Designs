@@ -3,7 +3,7 @@
 **Designer who builds.** Brand systems, websites and small apps, designed and shipped in code.
 Remote.
 
-🌐 [danielarita.com](https://danielarita.com)
+🌐 [danielarita.com](https://danielarita.com) · [LinkedIn](https://www.linkedin.com/in/daniela-rita-186547203/) · [Behance](https://www.behance.net/danielarita)
 
 ## Things I built
 
